@@ -4,6 +4,6 @@ For applications of music composition in performances and productions.
 
 <p align=center>
   <picture>
-    <img src="./img/lstm_gear.png" height="300"/>
+    <img src="./img/4 obladi oblada.png" height="300"/>
   </picture>
 </p>
